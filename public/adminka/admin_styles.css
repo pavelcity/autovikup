@@ -1,0 +1,9 @@
+.ck.ck-editor__main > .ck-editor__editable {
+  min-height: 150px;
+  resize: vertical;
+}
+
+.pravilaWrap .ck.ck-editor__main > .ck-editor__editable {
+  min-height: 300px !important;
+  resize: vertical;
+}

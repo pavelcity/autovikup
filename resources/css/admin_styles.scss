@@ -1,0 +1,11 @@
+.ck.ck-editor__main > .ck-editor__editable {
+  // border: 1px solid red;
+  min-height: 150px;
+  resize: vertical;
+}
+
+.pravilaWrap .ck.ck-editor__main > .ck-editor__editable {
+  // border: 1px solid red;
+  min-height: 300px !important;
+  resize: vertical;
+}
