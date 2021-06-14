@@ -16,14 +16,14 @@ class UserSeeder extends Seeder
 	{
 		DB::table('users')->insert([
 			[
-				'name' => 'memeadmin',
-				'email' => 'memeadmin@me.ru',
-				'password' => bcrypt('09870987')
+				'name' => '',
+				'email' => '',
+				'password' => bcrypt('')
 			],
 			[
-				'name' => 'менеджер',
-				'email' => 'manager@a.ru',
-				'password' => bcrypt('443322')
+				'name' => '',
+				'email' => 'u',
+				'password' => bcrypt('')
 			]
 		]);
 	}
